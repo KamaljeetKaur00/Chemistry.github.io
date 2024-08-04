@@ -31,15 +31,15 @@
 | **1.** Temporary hardness is also known as Carbonate Hardness. | **1.** Permanent hardness is also known as non-carbonate hardness.  |
 | **2.** It is due to the salts of carbonantes.  CaCO₃, MgCO₃, Ca(HCO₃)₂, Mg(HCO₃)₂ | **2.** It is due to the salts of chlorine, sulphate and nitrates. CaCl₂, MgCl₂, CaSO₄, MgSO₄, Ca(NO₃)₂, Mg(NO₃)₂ |
 | **3.** It can easily be removed by boiling.| **3.** It can be removed by special methods. |
-|$$Ca(HCO_3)_2(aq) \xrightarrow{\Delta} CaCO_3(s) + H_2O(l) + CO_2(g)$$      $$Mg(HCO_3)_2(aq) \xrightarrow{\Delta} MgCO_3(s) + H_2O(l) + CO_2(g)$$|Lime soda process, Zeolite Process, Ion exchange process |
+| Ca(HCO₃)₂(aq) → CaCO₃(s) + H₂O(l) + CO₂(g) |Lime soda process, Zeolite Process, Ion exchange process |
 
 
 ### QUESTION:
 **Why hard water doesn't make lather with soap?**
 ### ANSWER
-$$CaSO_4(aq) + 2C_{17}H_{35}COONa(aq) \rightarrow Ca(C_{17}H_{35}COO)_2(s) + Na_2SO_4(aq)$$
+CaSO₄(aq) + 2C₁₇H₃₅COONa(aq) → Ca(C₁₇H₃₅COO)₂(s) + Na₂SO₄(aq)
 
-$$Calcium sulfate + Sodium Stearate \rightarrow Calcium stearate + Sodium sulfate$$
+Calcium sulfate + Sodium Stearate → Calcium stearate + Sodium sulfate
 
 *Hard water is water that contains salts of calcium and magnesium, which react with  Sodium Sterate (soap molecules) and form white scum, a sticky and greasy residue on surfaces.*
 
