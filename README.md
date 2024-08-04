@@ -37,9 +37,9 @@
 ### QUESTION:
 **Why hard water doesn't make lather with soap?**
 ### ANSWER
-CaSO₄(aq) + 2C₁₇H₃₅COONa(aq) → Ca(C₁₇H₃₅COO)₂(s) + Na₂SO₄(aq)
+**CaSO₄(aq) + 2C₁₇H₃₅COONa(aq) → Ca(C₁₇H₃₅COO)₂(s) + Na₂SO₄(aq)**
 
-Calcium sulfate + Sodium Stearate → Calcium stearate + Sodium sulfate
+**Calcium sulfate + Sodium Stearate → Calcium stearate + Sodium sulfate**
 
 *Hard water is water that contains salts of calcium and magnesium, which react with  Sodium Sterate (soap molecules) and form white scum, a sticky and greasy residue on surfaces.*
 
